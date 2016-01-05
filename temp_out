@@ -1,0 +1,14 @@
+MAIN: Just waiting but not for too long.. 
+Coffee is ready!
+The end of goroutine Coffee
+Tea is ready!
+The end of goroutine Tea
+Chocolate is ready!
+Expresso is ready!
+The output is Coffee
+The end of goroutine Expresso
+The output is Tea
+The end of goroutine Chocolate
+The output is Expresso
+The output is Chocolate
+MAIN: end of program
