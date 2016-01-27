@@ -8,6 +8,8 @@ import (
 	"strings"
 )
 
+
+
 func main() {
 	r := bufio.NewReader(os.Stdin)
 
@@ -26,9 +28,10 @@ func main() {
 	fmt.Printf("The input string is: %s\n", str)
 
 	fmt.Println("String split *********************")
-	str_splits := strings.Split(str, ", ")
+	str_splits := strings.SplitAfter(str, ", ")
 
 	for i := 0; i < len(str_splits); i++ {
 		fmt.Println(str_splits[i])
 	}
+
 }
