@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<title>Home Page</title>
+<link type="text/css" href="documents/textstyles_nf.css" rel="stylesheet">
+<link type="text/css" href="documents/print.css" rel="stylesheet"  media="print">
+<meta name="robots" content="index,follow">
+<meta name="generator" content="EZGenerator 4.3.14.0 (flex_11-v3[4])">
+<meta name="description" content="Welcome to Walter Russell&rsquo;s Cosmology!">
+<meta name="keywords" content="wave, cosmology, metaphysical, light, walter russell">
+<meta name="last-modified" content="Wed, 16 12 2015 21:56:50 GMT">
+<link href="favicon.ico" type="image/x-icon" rel="shortcut icon">
+<link href="favicon.ico" type="image/ico" rel="icon">
+<style type="text/css">
+.imabox05{border:#fff 7px solid;box-shadow:0 1px 4px rgba(0, 0, 0, 0.3);border-radius:7px;}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript" src="jquery_utils.js"></script>
+<!--scripts-->
+<style type="text/css">
+.s0 th{border-bottom: 1px solid #ffffff;background: url(noteswhitetop.jpg) repeat bottom;padding: 2px 0px;}
+.s1 td{background: #fffdac url(extimages/noteswhite.jpg) bottom;padding:3px;}
+.s2 td{background: #fffdac url(extimages/noteswhite.jpg) bottom;padding:3px;}
+.s3 td{background:  url(extimages/noteswhite.jpg) top;}
+</style>
+
+<!--menu_java-->
+<!--/menu_java-->
+<!--endscripts-->
+</head>
+<body >
+<div id="container">
+	<div id="topbar">
+	    <div id="eima"><img src="images/cti_0.jpg" alt=""></div>
+	    <div id="search"><form id="search_form" action="documents/search.php" method="post"><input type="hidden" name="id" value="23"><input type="text" id="search_box" name="q" required style="width:110px"><span class="srch_btn_wrap"><input id="search_button" type="submit" value="Search"></span></form></div>
+	    <div id="sitename1">Cosmology of Walter Russell</div>
+	    <div id="sitename2"></div>
+	    <ul id="mmenu"><!--mmenu--><li id="ci23"><a id="ma" class="mmenu active" href="index.html" target="_self">Home</a></li>
+<li id="ci47"><a class="mmenu" href="documents/novice.html" target="_self">Novice</a></li>
+<li id="ci24"><a class="mmenu" href="documents/cube.html" target="_self">Cube/Sphere</a></li>
+<li id="ci26"><a class="mmenu" href="documents/wave.html" target="_self">Wave</a></li>
+<li id="ci48"><a class="mmenu" href="documents/light.html" target="_self">Light</a></li>
+<li id="ci64"><a class="mmenu" href="documents/electricity__magnetism.html" target="_self">Electricity</a></li>
+<li id="ci132"><a class="mmenu" href="documents/matter.html" target="_self">Matter</a></li>
+<li id="ci60"><a class="mmenu" href="documents/useful_tools.html" target="_self">Useful tools</a></li>
+<li id="ci125"><a class="mmenu" href="documents/metaphysics.html" target="_self">Metaphysics</a></li>
+<li id="ci81"><a class="mmenu" href="documents/contact.html" target="_self">Contact</a></li>
+<!--/mmenu--></ul>
+	    <div id="submenucount" class="noresp"></div>
+			<ul id="smenu"><!--smenu--><li id="mi23"><a id="sa" class="smenu" href="index.html" target="_self">Home Page</a></li>
+<!--/smenu--></ul>
+	</div>
+	<div id="xm1"><div align="left" id="xm2" class="xm2" data-page="23" data-root="1"><!--page--><div class="pageheader"><h1>Welcome & Introduction</h1></div><!--pheader--><br>
+<br>
+<table style="width:400px;height:25px;" id="table_1">
+<tr class="s3"><td style="width:397px;"><div class="rvps0"><span class="cfont" style="font: bold 16px Constantia, Georgia, Palatino;color:#ff0000;" data-size="16">This page was last updated on March 23, 2015.</span></div>
+<div class="rvps0"><span class="cfont" style="font: bold 16px Constantia, Georgia, Palatino;color:#ff0000;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#580080;" data-size="16">This page is dedicated to Juergen Buche ND</span></div>
+</td></tr></tbody></table>
+<br>
+<br>
+<div class="rvps2"><a href="https://www.youtube.com/channel/UCPeOE8id8MiWCLxl3tcJxoQ"  class="e_button" >You Tube Channel</a></div>
+<br>
+<br>
+<div class="rvps2"><!-- Web2PDF Converter Button BEGIN -->
+<script type="text/javascript">
+var
+pdfbuttonlabel="Save page as PDF"
+</script>
+<script src="http://www.web2pdfconvert.com/pdfbutton2.js" id="Web2PDF" type="text/javascript"></script>
+<!-- Web2PDF Converter Button END -->
+</div>
+<br>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#580080;" data-size="16">If you can, please help keep the site going.</span></div>
+<br>
+<div class="rvps1"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIHNwYJKoZIhvcNAQcEoIIHKDCCByQCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYCRtuRJg/7MMXS1+K67y82Y+ToObHrYYAhe6V4exWOCpOt04SJkvEkvJ0dr1Me5FAudXulkJjcs/8w1ZYjbj+89Ia+5pInRa+f+UhkxXZgvCedHljDDEGZVFamvVosuKecEPwLaWlUjW7fsLQRWEo7I8Y5dhrhDqF/Op1a0xkYDDzELMAkGBSsOAwIaBQAwgbQGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQIcZJ0cDcQUnmAgZBB0UzBCnDYI5sCCpBWa4uiLpBFzw3jEvmAUpEBgevB3nJBZ9UDKiOPSZZeBmbmdGD2ToKVgij1agiF3vcZ7BM84+gvz1PCEni6d0kG6qcBq1t/vpJdTyMwePDK/CWxjW1R4GLcny3I7ntJOMjDPKH/QsO2xRr+9IztXZ27XJ2lYJEl/+L4bupFCkkVZXdv6F+gggOHMIIDgzCCAuygAwIBAgIBADANBgkqhkiG9w0BAQUFADCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wHhcNMDQwMjEzMTAxMzE1WhcNMzUwMjEzMTAxMzE1WjCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMFHTt38RMxLXJyO2SmS+Ndl72T7oKJ4u4uw+6awntALWh03PewmIJuzbALScsTS4sZoS1fKciBGoh11gIfHzylvkdNe/hJl66/RGqrj5rFb08sAABNTzDTiqqNpJeBsYs/c2aiGozptX2RlnBktH+SUNpAajW724Nv2Wvhif6sFAgMBAAGjge4wgeswHQYDVR0OBBYEFJaffLvGbxe9WT9S1wob7BDWZJRrMIG7BgNVHSMEgbMwgbCAFJaffLvGbxe9WT9S1wob7BDWZJRroYGUpIGRMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbYIBADAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4GBAIFfOlaagFrl71+jq6OKidbWFSE+Q4FqROvdgIONth+8kSK//Y/4ihuE4Ymvzn5ceE3S/iBSQQMjyvb+s2TWbQYDwcp129OPIbD9epdr4tJOUNiSojw7BHwYRiPh58S1xGlFgHFXwrEBb3dgNbMUa+u4qectsMAXpVHnD9wIyfmHMYIBmjCCAZYCAQEwgZQwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tAgEAMAkGBSsOAwIaBQCgXTAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0xNDExMjQwOTAzNThaMCMGCSqGSIb3DQEJBDEWBBSW5+fle/dFhnTFFiwzXBQ7TRJWAzANBgkqhkiG9w0BAQEFAASBgKzspK84lgtA7734pgvWMBsVyevezkToQvz27DwqcNKxa8xlYDSBtIi1CFsrYVr3aRNxTB6k5K4lf/FbM/kjEy8V2P4lxRrUvoWTPCERk2atRMS0mnI5dUERv8PdveN5o5wg6+/E4AYs0D3ZSoaqhRaKfalN8zC8yoH1qwRoMY6K-----END PKCS7-----
+">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+<br>
+<br>
+<div class="rvps1"><span class="cfont" style="font: bold 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16">"Within the Wave lies the secret of all Creation"</span></div>
+<div class="rvps1"><span class="cfont" style="font: bold 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16"><br></span></div>
+<div class="rvps1"><span class="cfont" style="font: bold 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16">"From the viewpoint of the undivided reality our 3D existence seems like an illusion.</span></div>
+<div class="rvps1"><span class="cfont" style="font: bold 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16">From our 3D viewpoint, the reality of the undivided stillness seems unbelievable and unfathomable." W.R.</span></div>
+<div class="rvps1"><span class="cfont" style="font: bold 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16"><br></span></div>
+<div class="rvps1"><span class="cfont" style="font: bold 16px Constantia, Georgia, Palatino;color:#993300;" data-size="16">This is an ELECTRIC universe of motion, not a Newtonian gravitational universe.</span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#5f4b3a;" data-size="16"><br></span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#5f4b3a;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">The purpose of this web site is to offer to students of Russell Cosmology helpful signposts along the journey into the work of Walter Russell and in the process reveal the truth in the above quotation. You already know all the answers you are seeking. Walter's Cosmology will help you remember all that you have forgotten. You may already be aware, that this journey is not for the faint hearted, and it is very easy to get lost and disillusioned along the way. The signposts I offer, will I hope keep you on a clear path and enable you to reach your destination. Unfortunately, the signposts do not indicate any shortcuts and this presentation is not a substitute for hard self-investigation. It is my desire to provide some clarity where too much vagueness has hithertofore been written.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="t2" style="">
+<div class="t2_caption" ></div>
+<div class="t2_body">
+<table style="width:100%;" id="table_2">
+<tr><td><div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#993300;" data-size="16"><br></span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#993300;" data-size="16">I will refer to s.e.x. as shown to avoid over keen interest from Eastern European p.o.r.n browsers.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">I have used the following expression throughout the site to highlight the necessity to be aware of the ONE rather than the 'duality' your senses believe to be real.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">"This perspective is exactly analogous to the wave/particle dilemma which has plagued science throughout the ages. "</span></div>
+</td></tr></table>
+</div>
+</div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">While the site content will attempt to uncover a lot of the mystery of Walter's Cosmology, it is intended to be used in conjunction with Walter's published writings. I am afraid there is no magic bullet, with this material. Your own DESIRE must be strong and you have to walk your own path to new knowledge. </span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">I wish to develop a robust model of Walter Russell's wave/wave field theory, and then utilise the theory as a basis for transmutation and free energy. This model is in constant flux. That's not to say earlier versions are incorrect. Rather they are incomplete. A new understanding revealed in the radial model may help fine tune the cubic model. Those re-tunings in turn help develop another aspect of the overall cosmology model. The unfortunate consequence for you the reader, is, that the page content changes regularly. </span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16">Generally, students are drawn to his wave, in the hope of finding some quick insight into Natural Law. I guess they do this in the hope of finding an easy route to a 'theory of everything' and limitless free energy. While these may be noble goals, the problems begin mainly because students search outside of themselves for all the answers. Walter's approach involves an acquaintance with the inner self. </span></div>
+<hr style="background:#000000;border:0;color:#000000;height:2px;">
+<div class="t2" style="">
+<div class="t2_caption" ></div>
+<div class="t2_body">
+<table style="width:100%;" id="table_3">
+<tr><td><div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">The purpose of many ancient spiritual disciplines is to quieten the brain chatter, </span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">and unplug from the simulation so that one's awareness can focus inwards. </span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">Stillness becomes the desired state rather than participation in simulated motion. when the veil is lifted, </span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">one can then 'see' the simulation for what is truly is, rather than what science believes it to be.</span></div>
+</td></tr></table>
+</div>
+</div>
+<hr style="background:#000000;border:0;color:#000000;height:2px;">
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16">I spent many years on that external quest. It was however, only when I made a conscious change in the direction of my own studies that I began to get a better understanding of Walter himself and his own struggle to find the best method to impart his knowledge and teachings. I can change the content on a daily basis but he had to get it right first time for his publications.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16">Walter's Cosmology spans both the physical 3D sensed simulated reality and the unsensed metaphysical true reality. Our task is to correctly interpret what we observe in our sensed reality and to begin to learn about the true reality which we probably up until now never even knew existed. One difficulty with Walter's text is that his description can drift from the physical to the metaphysical with no obvious indication that he has done so. This can lead to many hours trying to understand an expression in the physical 3D when Walter is actually referring to something that pertains to the metaphysical aspect of the creation Idea.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16">Science has hampered itself. It ignores, in the main, the influence of the metaphysical aspect on the physical 3D aspect. As a direct result, it wastes all its time looking for Cause in effect. Imagine the problems a statistician would have if he/she always picked too small a sample population from which to draw an accurate view of the population as a whole.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16">Science suffers from a collective myopia (</span><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#993300;" data-size="16">The Semmelweis Reflex</span><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000080;" data-size="16">), and when the theory doesn't match the facts, they simply change or ignore the facts. </span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">It may seem counter-intuitive to begin our work in the metaphysical, with such an intangible principle as the Cubic wave field, but we cannot fully understand our universe of form and effect without first determining the Cause of that form.</span></div>
+<hr style="background:#000000;border:0;color:#000000;height:2px;">
+<div class="t1" style="">
+<div class="t1_caption" ></div>
+<div class="t1_body">
+<table style="width:100%;" id="table_4">
+<tr><td><div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#ff0000;" data-size="16">TIP: </span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#ff0000;" data-size="16">Reading and re-reading (left brain) the information documented by Walter will not be sufficient for a student to gain an acceptable level of understanding of the concepts described by Walter. Walter suggests that studying should be complemented by further contemplation and meditation (right brain) on those concepts. This is really important, and hopefully you can glean new in-sights from re-reading the same material.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#ff0000;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#ff0000;" data-size="16">In fact, Walter is really providing us with a path not only to explore and understand the external world we believe to be real, but more importantly, he provides us with a road map for inner personal discovery. I don't believe one can ever utilise the concepts outlined in Walter's theories in the outer 3D world successfully unless the appropriate level of inner work has first been achieved.</span></div>
+</td></tr></table>
+</div>
+</div>
+<hr style="background:#000000;border:0;color:#000000;height:2px;">
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">I would strongly suggest that you question every aspect of your understanding of the theory. </span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">Sit with it for as long as it takes to </span><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#800000;" data-size="16">Know</span><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"> the principle you are studying. Fit that new knowledge into the next section of the theory. If something doesn't &nbsp;fit, continue your investigation. No research will be wasted. The journey, learning what something is not, is just as valuable as a true discovery.</span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps1"><img  rel="273,185" alt="" title="Overall wave cycle" class="imabox05" src="wave.gif"></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">(image taken from the Secret of Light - W. Russell)</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">Another thing to bear in mind is that Walter's diagrams are in the main analogous to taking the individual negatives from a film strip, overlaying them on top of one another, and then compressing them all into one single picture frame.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">The problem most students are confronted with is that within one compressed negative you are expected to 'see' the entire dynamic motion of each individual phase although it is not obvious what happens as one phase ends and another begins!! This can make the path ahead quite confusing, particularly when diagrams depict the full wave cycle, and span the metaphysical as well as the physical !! </span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"><br></span></div>
+<div class="rvps1"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">Good Luck !</span></div>
+<hr style="background:#000000;border:0;color:#000000;height:2px;">
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">Many thanks to </span><a style="font: 16px Constantia, Georgia, Palatino;color:#0000ff;" href="http://www.themeasuringsystemofthegods.com" target="_self">Wayne</a><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"> who started the ball rolling for me.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">Check out the excellent work of</span><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#0000ff;" data-size="16"> </span><a style="font: 16px Constantia, Georgia, Palatino;color:#0000ff;" href="http://www.numberscience.me.uk/author.html">Michael Joyce</a><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">Find the work (universe of motion) of physicist Dewey B Larson </span><a style="font: 16px Constantia, Georgia, Palatino;color:#0000ff;" href="http://www.reciprocalsystem.com/dbl/">here</a><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">Find books on Walter's cosmology at the Dowser's site </span><a style="font: 16px Constantia, Georgia, Palatino;color:#0000ff;" href="http://www.dowsers.com/walter-russell/">here.</a></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">Some nice synchronicities with </span><a style="font: 16px Constantia, Georgia, Palatino;color:#0000ff;" href="http://www.yeatsvision.com/Geometry.html">WB Yeats</a><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">The Ancient Hermetic Principle on which WRC is founded may be explored </span><a style="font: 16px Constantia, Georgia, Palatino;color:#0000ff;" href="http://www.kybalion.org">here.</a></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">You may prefer to listen to an audio book version of the Hermetic Principles </span><a style="font: 16px Constantia, Georgia, Palatino;color:#0000ff;" href="http://youtu.be/kioELu80KPg">here.</a></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">Many thanks to </span><a style="font: 16px Constantia, Georgia, Palatino;color:#0000ff;a.rvts59:hover{color:#8E8A74;}
+" href="http://www.giveitnothought.com   ">Richard Grant</a><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16"> for all his support and encouragement.</span></div>
+<div class="rvps0"><span class="cfont" style="font: 16px Constantia, Georgia, Palatino;color:#000000;" data-size="16">Follow a fellow researcher, who brings some 3D graphics to the party </span><a style="font: 16px Constantia, Georgia, Palatino;color:#0000ff;" href="http://www.theuniverseunraveled.t-ramp.be/#home">here.</a></div>
+<!--/page--></div></div>
+	<div id="footer"><!--footer--><br><!--/footer--></div>
+</div>
+</body></html>
