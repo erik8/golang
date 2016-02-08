@@ -8,8 +8,6 @@ import (
 	"strings"
 )
 
-
-
 func main() {
 	r := bufio.NewReader(os.Stdin)
 
